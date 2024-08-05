@@ -25,7 +25,7 @@ com um  conjunto de páginas interconectadas de modo a trazer várias informaç�
 
 <h1>Serviço 2 </h1>
 
-![serviço2](https://github.com/Imayagmb/Modavo-Projeto/assets/129901845/e1d4c671-67f7-4e55-ab73-08bf5fb0d254)
+![serviço2](https://github.com/Imayagmb/Modavo/assets/129901845/e1d4c671-67f7-4e55-ab73-08bf5fb0d254)
 ##
 
 <h1>Serviço 3 </h1>
